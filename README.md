@@ -63,7 +63,6 @@ This structure follows Android best practices with clear separation of concerns:
 - Kotlin 1.8+
 - Gradle 7.0+
 
-## Video
 
 ## Setup Instructions
 1. Clone the repository
