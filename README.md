@@ -7,18 +7,7 @@ A modern Android TV application built with Kotlin and Jetpack Compose, featuring
 
 ## Demo Video
 
-https://github.com/maven-y/AndroidTV/blob/main/Screen_recording_20250406_215706.mp4
-
-
-
-
-## Screenshots
-
-
-
-![Details Screen](https://github.com/maven-y/AndroidTV/blob/main/1.png)
-
-![Details Screen](https://github.com/maven-y/AndroidTV/blob/main/2.png)
+https://github.com/user-attachments/assets/0545c99c-3d5f-426d-8efb-1b1b3532f6bd
 
 
 
