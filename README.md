@@ -10,7 +10,6 @@ A modern Android TV application built with Kotlin and Jetpack Compose, featuring
 https://github.com/user-attachments/assets/0545c99c-3d5f-426d-8efb-1b1b3532f6bd
 
 
-
 ## Features
 - Video playback with ExoPlayer
 - TV-optimized UI with focus management
